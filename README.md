@@ -169,3 +169,19 @@ Projetos que fizeram parte da minha evolução no desenvolvimento de software.
 <img src="./fox-metrics.gif" width="100%" alt="Fox System Development Status" />
 
 </div>
+
+## `07 // CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTRIBUTION_SYSTEM-F97316?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LilianMilan&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F59E0B&currStreakLabel=FED7AA&sideLabels=FED7AA&dates=FED7AA" />
+
+<br/><br/>
+
+<code>CONTRIBUTION MATRIX &gt; ACTIVE DEVELOPMENT MODE ✓</code>
+
+</div>
