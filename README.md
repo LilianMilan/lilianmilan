@@ -166,16 +166,6 @@ Projetos que fizeram parte da minha evolução no desenvolvimento de software.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEVELOPMENT_STATUS-F97316?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FULL_STACK-████████░░_80%25-F97316?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI_%26_AUTOMATION-██████░░░░_60%25-F59E0B?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ROTA_DEV-█████████░_90%25-EA580C?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<code>FOX SYSTEM > CONTINUOUSLY EVOLVING...</code>
+<img src="./assets/fox-metrics.svg" width="100%" alt="Fox System Development Status" />
 
 </div>
