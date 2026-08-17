@@ -185,3 +185,35 @@ Projetos que fizeram parte da minha evolução no desenvolvimento de software.
 <code>CONTRIBUTION MATRIX &gt; ACTIVE DEVELOPMENT MODE ✓</code>
 
 </div>
+
+## `08 // CONNECT`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LET'S_CONNECT-F97316?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/lilian-milan-546900135/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F97316" />
+</a>
+
+<a href="https://www.instagram.com/codebylilian/">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F59E0B" />
+</a>
+
+<a href="https://github.com/LilianMilan">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FED7AA" />
+</a>
+
+<br/><br/>
+
+<code>@codebylilian // BUILDING • SHARING • EVOLVING</code>
+
+<br/><br/>
+
+### `Thanks for visiting the FOX SYSTEM.`
+
+<code>CONNECTION STATUS &gt; OPEN ✓</code>
+
+</div>
