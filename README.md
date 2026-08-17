@@ -166,7 +166,7 @@ Projetos que fizeram parte da minha evolução no desenvolvimento de software.
 
 <div align="center">
 
-<img src="./fox-metrics.gif" width="100%" alt="Fox System Development Status" />
+<img width="900" height="330" alt="fox-metrics" src="https://github.com/user-attachments/assets/91d0e519-1226-46b1-82e2-0275a1cb6c03" />
 
 </div>
 
